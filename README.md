@@ -18,9 +18,8 @@
 <br>
 
 <p align="center">
-  <img src="./coding.gif" width="350px" alt="Coding Animation">
+  <img src="coding.gif" width="350px" alt="Coding Animation">
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
