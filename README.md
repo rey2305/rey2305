@@ -69,9 +69,5 @@
 <h3 align="center">🐍 My Contribution Snake</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rey2305/rey2305/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rey2305/rey2305/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rey2305/rey2305/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=rey2305" alt="Snake Animation" />
 </p>
