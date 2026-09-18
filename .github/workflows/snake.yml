@@ -12,16 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Bikin animasi ular dari kontribusi GitHub kamu
-      - uses: Platane/snk@v3
+      # Generate animasi ular dari kontribusi GitHub
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rey2305
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Push file svg yang udah dibuat ke branch 'output'
-      - uses: crazy-max/ghaction-github-pages-action@v3
+      # Push file svg ke branch 'output' (versi terbaru yang resmi)
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
