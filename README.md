@@ -60,14 +60,14 @@
 
 ---
 
-<p align="center">
-  <i>Designed & Built by <b>Raisya Mirza Aiman</b></i>
-</p>
-
----
-
 <h3 align="center">🐍 My Contribution Snake</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=rey2305" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Designed & Built by <b>Raisya Mirza Aiman</b></i>
 </p>
