@@ -1,83 +1,93 @@
-<!-- 🚀 HEADER BANNER (Generated using banner-generator.itsvg.in) 🚀 -->
+<!-- 🚀 HEADER BANNER DENGAN TYPING ANIMATION 🚀 -->
 <p align="center">
-  <img src="https://banners.beyondco.de/Hi%20There%2C%20I'm%20Rey%20%F0%9F%91%8B.png?theme=dark&packageManager=npm+install+gptrm&description=Full-Stack+Web+%26+Mobile+Developer+Student&color=4F46E5&style=style_1" alt="Rey's Header Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vcenter=true&random=false&width=600&height=70&lines=Hi+There%2C+I'm+Raisya+Mirza+Aiman+👋;Full-Stack+Web+Developer+🌐;Mobile+App+Developer+(Flutter)+📱;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing SVG" />
 </p>
 
-<!-- 🎬 ANIMASI SAMBUTAN (Dari GIPHY atau sumber lain) 🎬 -->
+<p align="center">
+  <a href="https://github.com/rey2305">
+    <img src="https://img.shields.io/github/followers/rey2305?label=Followers&logo=github&style=for-the-badge&color=blue" alt="Followers">
+  </a>
+  <a href="https://github.com/rey2305">
+    <img src="https://img.shields.io/github/stars/rey2305?label=Total%20Stars&logo=github&style=for-the-badge&color=yellow" alt="Stars">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=rey2305&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=rey2305&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Views">
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p> An ambitious <b>Full-Stack Web & Mobile Developer Student</b> at SMK Sahabat Ilmu.</p>
+      <p>⚡ <b>Current Focus:</b> Building high-performance web applications with <b>Laravel & React JS</b>.</p>
+      <p>📱 <b>Learning Journey:</b> Deep-diving into cross-platform mobile development using <b>Flutter & Dart</b>.</p>
+      <p>🎯 <b>Goals:</b> Mastering scalable full-stack web architectures and modern UI/UX design.</p>
+      <p>💡 <i>"Transitioning from React to Flutter feels like second nature — everything is a widget!"</i></p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dW53Y3J6bzA1eTNidzg1ZDdnd3g1OW1iMnpxZjJkOHJ2OXJ5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VvhMTvi/giphy.gif" width="100%" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-  <h3>⚡ Welcome to My Digital Space! ⚡</h3>
-  <br>
+
+### 🌐 Web Backend & Database
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Web Frontend & UI
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%2385129E.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile Development
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### 🧰 Dev Tools & Software
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-# 💫 About Me:
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-An ambitious **Full-Stack Web & Mobile Developer Student** at SMK Sahabat Ilmu.<br>
-I build scalable web applications and intuitive cross-platform mobile apps.<br>
-<br>
-✨ Always eager to learn, code, and create innovative solutions.
+  <img src="https://github-readme-stats.shion.dev/api?username=rey2305&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rey2305&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rey2305&theme=radical&hide_border=false" alt="GitHub Streak" width="98.5%">
+</p>
+
+---
+
+# 🎮 Play Corner
 
 <div align="center">
-
-| Key Focus | Technology |
-| :--- | :--- |
-| 🚀 **Web Dev** | **Laravel** 🐘 & **React JS** ⚛️ |
-| 📱 **Mobile Dev** | Diving into **Flutter** 🐦 & **Dart** 🔵 |
-| 🛠️ **Tech Arsenal** | PHP, JS, MySQL, Tailwind CSS, Git |
-| 🎯 **Main Goal** | Mastering Full-Stack & Cross-Platform Architectures |
-
+  <img src="https://raw.githubusercontent.com/rey2305/rey2305/output/pacman-build/pacman.svg" alt="Pacman Eating Commits" width="100%" />
 </div>
 
 ---
 
-# 🛠️ My Tech Stack:
-
 <p align="center">
-  <!-- Web Backend -->
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  
-  <br>
-  
-  <!-- Web Frontend -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-
-  <br>
-  
-  <!-- Mobile Development -->
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-
-  <br>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
-
----
-
-# 📊 GitHub Stats & Achievements:
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rey2305&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Rey's GitHub Stats"><br/>
-  <img src="https://streak-stats.demolab.com/?user=rey2305&theme=radical&hide_border=false" alt="Rey's GitHub Streak"><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rey2305&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rey's Top Languages">
-</p>
-
----
-
-<!-- 🚀 FOOTER COUNTER & SIGNATURE 🚀 -->
-<br>
-<p align="center">
-  Made with ❤️ by Rey ⚡<br/>
-  <img src="https://komarev.com/ghpvc/?username=rey2305&label=PROFILE%20VIEWS&color=4682B4&style=plastic" alt="Profile Views Counter">
+  ⚡ <i>Designed & Built by <b>Raisya Mirza Aiman</b></i> ⚡
 </p>
