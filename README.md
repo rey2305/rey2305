@@ -9,22 +9,17 @@
 
 ### 💫 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🚀 <b>Core Expertise:</b> Building web apps with <b>Laravel</b> & <b>React JS</b></li>
-        <li>📱 <b>Current Focus:</b> Deep-diving into Mobile Development using <b>Flutter & Dart</b></li>
-        <li>🎓 <b>Education:</b> Software Engineering Student at SMK Sahabat Ilmu</li>
-        <li>🎯 <b>Goals:</b> Mastering full-stack web architectures and cross-platform mobile apps</li>
-        <li>💡 <i>"Transitioning from React to Flutter feels like second nature — everything is a widget!"</i></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpnc2c2NzdpeHM5ajR3M2hoN25xNzljM2tnMmVzZWNrcnp0YnhrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M4JFcl6RSW3rxwywuh/giphy.gif" width="100%" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+* 🚀 **Core Expertise:** Building web apps with **Laravel** & **React JS**
+* 📱 **Current Focus:** Deep-diving into Mobile Development using **Flutter & Dart**
+* 🎓 **Education:** Software Engineering Student at SMK Sahabat Ilmu
+* 🎯 **Goals:** Mastering full-stack web architectures and cross-platform mobile apps
+* 💡 *"Transitioning from React to Flutter feels like second nature — everything is a widget!"*
+
+<br>
+
+<p align="center">
+  <img src="./coding.gif" width="350px" alt="Coding Animation">
+</p>
 
 ---
 
